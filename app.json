@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "voice-conscience",
+    "slug": "voice-conscience",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0"
+  }
+}
